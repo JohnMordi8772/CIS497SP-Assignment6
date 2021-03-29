@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8148722111872519318}
   - component: {fileID: 9182842865323518769}
   - component: {fileID: 2782554959205403207}
+  - component: {fileID: -2310690867468863764}
   m_Layer: 0
   m_Name: Soldier
   m_TagString: Untagged
@@ -96,3 +97,15 @@ CapsuleCollider:
   m_Height: 2
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-2310690867468863764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 212436131080439263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05f89d88a8090524b88245cffee05757, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

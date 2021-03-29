@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3912183214696012716}
   - component: {fileID: 1630885657163887991}
   - component: {fileID: 2904043736206355514}
-  - component: {fileID: 8856383766462275397}
+  - component: {fileID: -4452759273693718126}
   m_Layer: 0
   m_Name: Dog
   m_TagString: Untagged
@@ -96,7 +96,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &8856383766462275397
+--- !u!114 &-4452759273693718126
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -105,6 +105,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 8228126386666889077}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: adfd4888eb79d064280495b004bd74d1, type: 3}
+  m_Script: {fileID: 11500000, guid: ee4f5d899391b864e90477c7705bfc74, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
